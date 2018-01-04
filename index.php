@@ -96,7 +96,7 @@
                         <p><img class="img-responsive" src="assets/img/me.jpg" alt=""></p>
                     </div>
                     <div class="col-lg-4">
-                        <p><more>I am student in first year at Ynov Ingesup. I chose the computing because this domain always interested me since I am a child and we find the computing everywhere nowadays. I chose a program with alternation to benefit experience in the world of the work and direct me easier to the job I wish to exercise later.<br/><br/></more></p>
+                        <p><more>I am following Bachelor cursus in Ynov Ingesup campus. I choose computer science because I was always interested by technology area since I was a kid. Moreover computer science and digital is almost everywhere nowadays. I choose a program with close relationship with business world to get experience from the field for my resumee and which will help me to get a job later.<br/><br/></more></p>
                     </div>
 
                 </div><!--/.row -->
@@ -359,7 +359,7 @@
                         <p><t>Email</t><br/>
                             hugoj.egu@gmail.com<br/>
                         </p>
-                        <p><t>Student's Email</t><br/>
+                        <p><t>Email Pro</t><br/>
                             hugojean.egu@ynov.com<br/>
                         </p>
                     </div>
