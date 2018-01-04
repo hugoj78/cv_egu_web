@@ -29,6 +29,7 @@
 <script src="assets/js/html5shiv.js"></script>
 <script src="assets/js/respond.min.js"></script>
 <![endif]-->
+        <link rel="shortcut icon" type="image/x-icon" href="assets/img/icons/icon_profile.png" />
     </head>
 
     <body data-spy="scroll" data-offset="0" data-target="#nav">
