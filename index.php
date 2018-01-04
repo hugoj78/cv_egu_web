@@ -93,7 +93,7 @@
                         <h5>ABOUT</h5>
                     </div>
                     <div class="col-lg-5">
-                        <p><img class="img-responsive" src="assets/img/me.jpg" alt="" style="max-width: 400px;"></p>
+                        <p><img class="img-responsive" src="assets/img/me.jpg" alt=""></p>
                     </div>
                     <div class="col-lg-4">
                         <p><more>I am student in first year at Ynov Ingesup. I chose the computing because this domain always interested me since I am a child and we find the computing everywhere nowadays. I chose a program with alternation to benefit experience in the world of the work and direct me easier to the job I wish to exercise later.<br/><br/></more></p>
