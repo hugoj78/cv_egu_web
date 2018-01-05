@@ -156,7 +156,7 @@
                         Danone
                         <br/>
                     </p>
-                    <p><more>This experience allowed me to know how takes place the world of the work and reinforce my desire to work in the computing</more></p>
+                    <p><more>This experience allowed me to know how takes place the world of the work and reinforce my desire to work in the computer science</more></p>
                 </div>
             </div><!--/.row -->
             <br>
