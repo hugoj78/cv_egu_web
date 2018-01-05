@@ -156,7 +156,7 @@
                         Danone
                         <br/>
                     </p>
-                    <p><more>This experience allowed me to report me of how takes place the world of the work and strengthened my desire to work in the computing</more></p>
+                    <p><more>This experience allowed me to know how takes place the world of the work and reinforce my desire to work in the computing</more></p>
                 </div>
             </div><!--/.row -->
             <br>
@@ -377,9 +377,7 @@
         </div><!--/ #footer -->
 
 
-        <!-- Bootstrap core JavaScript
-================================================== -->
-        <!-- Placed at the end of the document so the pages load faster -->
+        <!-- Bootstrap core JavaScript -->
         <script src="assets/js/bootstrap.js"></script>
     </body>
 </html>
