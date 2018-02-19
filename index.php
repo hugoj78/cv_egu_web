@@ -24,11 +24,6 @@
         <script type="text/javascript" src="assets/js/smoothscroll.js"></script> 
         <script src="assets/js/Chart.js"></script>
 
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-<script src="assets/js/html5shiv.js"></script>
-<script src="assets/js/respond.min.js"></script>
-<![endif]-->
         <link rel="shortcut icon" type="image/x-icon" href="assets/img/icons/icon_profile.png" />
     </head>
 
@@ -55,22 +50,22 @@
                                 <li class="menu-item">
                                     <a class="js-scrollTo" href="#hobbies" title="Hobbies"><i class="icon-heart"></i></a>
                                 </li>
-                                
+
                                 <li class="menu-item">
                                     <a class="js-scrollTo" href="#portfolio" title="Portfolio"><i class="icon-foursquare"></i></a>
                                 </li>
 
                                 <li class="menu-item"><a class="js-scrollTo" href="#contact" title="Contact"><i class="icon-comments-alt"></i></a></li>
-                            </ul><!--/ uL#nav -->
-                        </div><!-- /.dropdown -->
+                            </ul>
+                        </div>
 
                         <div class="clear"></div>
-                    </div><!--/.row -->
-                </div><!--/.container -->
+                    </div>
+                </div>
 
                 <div class="clear"></div>
-            </div><!--/ #topbar-inner -->
-        </div><!--/ #section-topbar -->
+            </div>
+        </div>
 
         <div id="headerwrap">
             <div class="container">
@@ -78,10 +73,10 @@
                     <div class="col-lg-12">
                         <h1>EGU Hugo-Jean</h1>
                         <h3>Student | hugoj.egu@gmail.com</h3>
-                    </div><!--/.col-lg-12 -->
-                </div><!--/.row -->
-            </div><!--/.container -->
-        </div><!--/.#headerwrap -->
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
         <section id="about" name="about"></section>
@@ -99,9 +94,9 @@
                         <p><more>I am following Bachelor cursus in Ynov Ingesup campus. I choose computer science because I was always interested by technology area since I was a kid. Moreover computer science and digital is almost everywhere nowadays. I choose a program with close relationship with business world to get experience from the field for my resumee and which will help me to get a job later.<br/><br/></more></p>
                     </div>
 
-                </div><!--/.row -->
-            </div><!--/.container -->
-        </div><!--/ #intro -->
+                </div>
+            </div>
+        </div>
 
 
         <section id="resume" name="resume"></section>
@@ -137,10 +132,10 @@
                     <p><sm>JUNE 2017</sm></p>
                 </div>
 
-            </div><!--/.row -->
+            </div>
             <br>
             <hr>
-        </div><!--/.container -->
+        </div>
 
 
         <!--WORK DESCRIPTION -->
@@ -158,9 +153,9 @@
                     </p>
                     <p><more>This experience allowed me to know how takes place the world of the work and reinforce my desire to work in the computer science</more></p>
                 </div>
-            </div><!--/.row -->
+            </div>
             <br>
-        </div><!--/.container -->
+        </div>
 
 
         <!--SKILLS DESCRIPTION -->
@@ -280,13 +275,13 @@
                         </script>
                     </div>
 
-                </div><!--/.row -->
+                </div>
                 <br>
-            </div><!--/.container -->
-        </div><!--/ #skillswrap -->
+            </div>
+        </div>
 
-        <section id="hobbies" name="hobbies"></section>
         <!--HOBBIES DESCRIPTION -->
+        <section id="hobbies" name="hobbies"></section>
         <div class="container desc">
             <div class="row">
                 <div class="col-lg-2 col-lg-offset-1">
@@ -309,14 +304,14 @@
                     </p>
                 </div>
 
-            </div><!--/.row -->
+            </div>
             <br>
             <br>
             <hr>
-        </div><!--/.container -->
-        
-        <section id="portfolio" name="portfolio"></section>
+        </div>
+
         <!--PORTFOLIO DESCRIPTION -->
+        <section id="portfolio" name="portfolio"></section>
         <div class="container desc">
             <div class="row">
                 <div class="col-lg-2 col-lg-offset-1">
@@ -339,15 +334,14 @@
                     </p>
                 </div>
 
-            </div><!--/.row -->
+            </div>
             <br>
             <br>
-        </div><!--/.container -->
+        </div>
 
 
-
-        <section id="contact" name="contact"></section>
         <!--FOOTER DESCRIPTION -->
+        <section id="contact" name="contact"></section>
         <div id="footwrap">
             <div class="container">
                 <div class="row">
@@ -372,10 +366,9 @@
 
                         </p>
                     </div>
-                </div><!--/.row -->
-            </div><!--/.container -->
-        </div><!--/ #footer -->
-
+                </div>
+            </div>
+        </div>
 
         <!-- Bootstrap core JavaScript -->
         <script src="assets/js/bootstrap.js"></script>

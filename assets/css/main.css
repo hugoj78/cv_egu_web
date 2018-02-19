@@ -1,11 +1,3 @@
- /* Author: Carlos Alvarez
- * URL: http://alvarez.is
- *
- * Project Name: Kelvin - Free Bootstrap 3 Resume Theme
- * Version: 1.0
- * URL: http://blacktie.co
- */
-
 body {
   background-color: #f2f2f2;
     font-family: 'Arial', sans-serif;
@@ -73,10 +65,7 @@ a:after {
 }
 
 
-/*---------------------------------------------------
-	3.1 Topbar
----------------------------------------------------*/
-
+/* Topbar */
 #section-topbar {
 	position: fixed;
 	top: 0;
@@ -97,11 +86,7 @@ a:after {
 	text-align: center;
 }
 
-/*
-	Top Bar
-
-	By default, top navigation bar uses "fixed" position
-*/
+/* Top Bar */
 #section-topbar ul#nav {
 	display: inline-block;
 	position: relative;
@@ -147,9 +132,7 @@ a:after {
 #section-topbar i {
 	font-size: 25px;
 }
-/*---------------------------------------------------
-	SECTION WRAPS
----------------------------------------------------*/
+/* SECTION WRAPS */
 
 /* Header Wrap */
 #headerwrap {
@@ -183,7 +166,7 @@ a:after {
 	color: white;
 }
 
-/* Intnro Wrap */
+/* Intro Wrap */
 
 #intro {
 	background: #2c3e50;
